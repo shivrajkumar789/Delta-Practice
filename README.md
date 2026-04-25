@@ -1,2 +1,2 @@
 # Delta-Practice
-Use for practice
+Use for practice.
